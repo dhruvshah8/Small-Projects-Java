@@ -1,0 +1,29 @@
+public class msg
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Lets convert from text message to English.");
+    
+    String cu =("See You");
+    String cu1 = ("CU");
+    String ttyl = ("TTYL"); 
+    
+    String msg = IBIO.inputString("Enter the text message you wish to convert(one line at a time in all CAPITALS: :");
+    
+    String happy = msg;
+    
+    while(10>5);
+    {
+      
+     
+        System.out.println("cu");
+      
+        
+         
+    }
+    
+    
+  }
+}
+   
+                                    
